@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto B7Burger" src=".github/preview.jpg" width="100%">
+  <img alt="projeto #boracodar player de VR" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
