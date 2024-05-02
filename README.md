@@ -26,8 +26,8 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- JavaScript
 - SCSS
+- JavaScript
 - Figma
 
 ## 💻 Projeto
